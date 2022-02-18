@@ -1,4 +1,0 @@
-"Guid","AccountId","Comments","Custom_Account__c","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","TestURLCase__c","Test_picklist__c","Type"
-12bb02f0-46c0-46eb-b288-83640b00bc3c,4370e9f6-fd71-4983-a0e8-fd92f8e379a3,"#N/A",03781f77-3913-4fa3-9af5-6b22d8ba71eb,"#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-4e668580-6e43-4968-9111-eb5bc2743613,24afebf4-549c-4ef2-a6ee-e72f97ee4039,"#N/A","#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-6a249d1d-b61f-4a52-86c7-e90f56b8b445,4863ec94-c896-4645-826c-ba2c983c2717,"#N/A","#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
